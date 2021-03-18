@@ -2,7 +2,7 @@
   "name": "startup-backend",
   "version": "1.0.0",
   "private": true,
-  "author": "Abhishek Naidu",
+  "author": "B Abhishek Naidu",
   "license": "MIT",
   "scripts": {
     "dev": "keystone-next",
