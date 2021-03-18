@@ -1,3 +1,9 @@
+# Keystone files
+.keystone
+
+# Visual Studio
+.vscode
+
 # Logs
 logs
 *.log
@@ -99,6 +105,3 @@ dist
 
 # DynamoDB Local files
 .dynamodb/
-
-# Keystone files
-.keystone
